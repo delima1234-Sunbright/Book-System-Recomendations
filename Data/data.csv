@@ -1,0 +1,334 @@
+User_ID,ISBN,Book_Rating,Book_Title,Book_Author,Year_Of_Publication,Publisher,Location,Age
+6575,0060502258,8,The Divine Secrets of the Ya-Ya Sisterhood: A Novel,Rebecca Wells,2002,HarperTorch,"seattle, washington, usa",32.0
+6575,0060928336,8,Divine Secrets of the Ya-Ya Sisterhood: A Novel,Rebecca Wells,1997,Perennial,"seattle, washington, usa",32.0
+6575,0060934417,9,Bel Canto: A Novel,Ann Patchett,2002,Perennial,"seattle, washington, usa",32.0
+6575,0060987103,9,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,1996,Regan Books,"seattle, washington, usa",32.0
+6575,014028009X,4,Bridget Jones's Diary,Helen Fielding,1999,Penguin Books,"seattle, washington, usa",32.0
+6575,0140293248,8,The Girls' Guide to Hunting and Fishing,Melissa Bank,2000,Penguin Books,"seattle, washington, usa",32.0
+6575,0140298479,6,Bridget Jones: The Edge of Reason,Helen Fielding,2001,Penguin Books,"seattle, washington, usa",32.0
+6575,0142001740,8,The Secret Life of Bees,Sue Monk Kidd,2003,Penguin Books,"seattle, washington, usa",32.0
+6575,0312195516,8,The Red Tent (Bestselling Backlist),Anita Diamant,1998,Picador USA,"seattle, washington, usa",32.0
+6575,0312966970,9,Four To Score (A Stephanie Plum Novel),Janet Evanovich,1999,St. Martin's Paperbacks,"seattle, washington, usa",32.0
+6575,0316776963,8,Me Talk Pretty One Day,David Sedaris,2001,Back Bay Books,"seattle, washington, usa",32.0
+6575,0375706771,7,Midwives: A Novel,Chris Bohjalian,1998,Vintage,"seattle, washington, usa",32.0
+6575,0375725784,7,A Heartbreaking Work of Staggering Genius,Dave Eggers,2001,Vintage Books USA,"seattle, washington, usa",32.0
+6575,0385335482,5,Confessions of a Shopaholic (Summer Display Opportunity),SOPHIE KINSELLA,2001,Delta,"seattle, washington, usa",32.0
+6575,0385484518,6,"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",MITCH ALBOM,1997,Doubleday,"seattle, washington, usa",32.0
+6575,0385720106,7,A Map of the World,Jane Hamilton,1999,Anchor Books/Doubleday,"seattle, washington, usa",32.0
+6575,0385722206,9,Balzac and the Little Chinese Seamstress : A Novel,DAI SIJIE,2002,Anchor,"seattle, washington, usa",32.0
+6575,0446606812,2,Message in a Bottle,Nicholas Sparks,1999,Warner Vision,"seattle, washington, usa",32.0
+6575,0446672211,8,Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,1998,Warner Books,"seattle, washington, usa",32.0
+6575,0452282152,6,Girl with a Pearl Earring,Tracy Chevalier,2001,Plume Books,"seattle, washington, usa",32.0
+6575,0553279912,7,A Is for Alibi (Kinsey Millhone Mysteries (Paperback)),SUE GRAFTON,1987,Bantam,"seattle, washington, usa",32.0
+6575,0671001795,9,Two for the Dough,Janet Evanovich,1996,Pocket,"seattle, washington, usa",32.0
+6575,0679746048,9,"Girl, Interrupted",SUSANNA KAYSEN,1994,Vintage,"seattle, washington, usa",32.0
+6575,067976402X,7,Snow Falling on Cedars,David Guterson,1995,Vintage Books USA,"seattle, washington, usa",32.0
+6575,0804106304,9,The Joy Luck Club,Amy Tan,1994,Prentice Hall (K-12),"seattle, washington, usa",32.0
+6575,1400034779,9,The No. 1 Ladies' Detective Agency (Today Show Book Club #8),Alexander McCall Smith,2003,Anchor,"seattle, washington, usa",32.0
+11676,0060502258,8,The Divine Secrets of the Ya-Ya Sisterhood: A Novel,Rebecca Wells,2002,HarperTorch,"n/a, n/a, n/a",32.0
+11676,0060938455,10,Fast Food Nation: The Dark Side of the All-American Meal,Eric Schlosser,2002,Perennial,"n/a, n/a, n/a",32.0
+11676,0060987103,9,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,1996,Regan Books,"n/a, n/a, n/a",32.0
+11676,0061009059,8,One for the Money (Stephanie Plum Novels (Paperback)),Janet Evanovich,1995,HarperTorch,"n/a, n/a, n/a",32.0
+11676,006101351X,8,The Perfect Storm : A True Story of Men Against the Sea,Sebastian Junger,1998,HarperTorch,"n/a, n/a, n/a",32.0
+11676,0062502182,10,The Alchemist: A Fable About Following Your Dream,Paulo Coelho,1995,HarperSanFrancisco,"n/a, n/a, n/a",32.0
+11676,0064407667,3,"The Bad Beginning (A Series of Unfortunate Events, Book 1)",Lemony Snicket,1999,HarperCollins,"n/a, n/a, n/a",32.0
+11676,014028009X,8,Bridget Jones's Diary,Helen Fielding,1999,Penguin Books,"n/a, n/a, n/a",32.0
+11676,0140293248,5,The Girls' Guide to Hunting and Fishing,Melissa Bank,2000,Penguin Books,"n/a, n/a, n/a",32.0
+11676,0140298479,3,Bridget Jones: The Edge of Reason,Helen Fielding,2001,Penguin Books,"n/a, n/a, n/a",32.0
+11676,0142000205,8,Icy Sparks,Gwyn Hyman Rubio,2001,Penguin Books,"n/a, n/a, n/a",32.0
+11676,0156027321,6,Life of Pi,Yann Martel,2003,Harvest Books,"n/a, n/a, n/a",32.0
+11676,0312195516,10,The Red Tent (Bestselling Backlist),Anita Diamant,1998,Picador USA,"n/a, n/a, n/a",32.0
+11676,0312278586,6,The Nanny Diaries: A Novel,Emma McLaughlin,2002,St. Martin's Press,"n/a, n/a, n/a",32.0
+11676,0312291639,9,The Nanny Diaries: A Novel,Emma McLaughlin,2003,St. Martin's Griffin,"n/a, n/a, n/a",32.0
+11676,0312305060,9,The Hours: A Novel,Michael Cunningham,2002,Picador,"n/a, n/a, n/a",32.0
+11676,0312966970,7,Four To Score (A Stephanie Plum Novel),Janet Evanovich,1999,St. Martin's Paperbacks,"n/a, n/a, n/a",32.0
+11676,0316096199,10,Lucky : A Memoir,Alice Sebold,2002,Back Bay Books,"n/a, n/a, n/a",32.0
+11676,0316569321,10,White Oleander : A Novel,Janet Fitch,1999,"Little, Brown","n/a, n/a, n/a",32.0
+11676,0316666343,5,The Lovely Bones: A Novel,Alice Sebold,2002,"Little, Brown","n/a, n/a, n/a",32.0
+11676,0316776963,8,Me Talk Pretty One Day,David Sedaris,2001,Back Bay Books,"n/a, n/a, n/a",32.0
+11676,0345313860,8,"The Vampire Lestat (Vampire Chronicles, Book II)",ANNE RICE,1986,Ballantine Books,"n/a, n/a, n/a",32.0
+11676,0345337662,6,Interview with the Vampire,Anne Rice,1993,Ballantine Books,"n/a, n/a, n/a",32.0
+11676,0345361792,10,A Prayer for Owen Meany,John Irving,1990,Ballantine Books,"n/a, n/a, n/a",32.0
+11676,0345370775,8,Jurassic Park,Michael Crichton,1999,Ballantine Books,"n/a, n/a, n/a",32.0
+11676,0345417623,10,Timeline,MICHAEL CRICHTON,2000,Ballantine Books,"n/a, n/a, n/a",32.0
+11676,0375706771,6,Midwives: A Novel,Chris Bohjalian,1998,Vintage,"n/a, n/a, n/a",32.0
+11676,0375707972,9,The Reader,Bernhard Schlink,1999,Vintage Books USA,"n/a, n/a, n/a",32.0
+11676,0375726403,7,Empire Falls,Richard Russo,2002,Vintage Books USA,"n/a, n/a, n/a",32.0
+11676,0375727345,7,House of Sand and Fog,Andre Dubus III,2000,Vintage Books,"n/a, n/a, n/a",32.0
+11676,0380789019,7,Neverwhere,Neil Gaiman,1998,Avon,"n/a, n/a, n/a",32.0
+11676,0385265700,7,The Book of Ruth (Oprah's Book Club (Paperback)),Jane Hamilton,1990,Anchor,"n/a, n/a, n/a",32.0
+11676,0385335482,10,Confessions of a Shopaholic (Summer Display Opportunity),SOPHIE KINSELLA,2001,Delta,"n/a, n/a, n/a",32.0
+11676,0385484518,9,"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",MITCH ALBOM,1997,Doubleday,"n/a, n/a, n/a",32.0
+11676,0385504209,9,The Da Vinci Code,Dan Brown,2003,Doubleday,"n/a, n/a, n/a",32.0
+11676,0385505833,8,Skipping Christmas,JOHN GRISHAM,2001,Doubleday,"n/a, n/a, n/a",32.0
+11676,0385720106,8,A Map of the World,Jane Hamilton,1999,Anchor Books/Doubleday,"n/a, n/a, n/a",32.0
+11676,0385722206,9,Balzac and the Little Chinese Seamstress : A Novel,DAI SIJIE,2002,Anchor,"n/a, n/a, n/a",32.0
+11676,0439064864,10,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,1999,Scholastic,"n/a, n/a, n/a",32.0
+11676,0439064872,8,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,2000,Scholastic,"n/a, n/a, n/a",32.0
+11676,0439136369,9,Harry Potter and the Prisoner of Azkaban (Book 3),J. K. Rowling,2001,Scholastic,"n/a, n/a, n/a",32.0
+11676,0439139597,8,Harry Potter and the Goblet of Fire (Book 4),J. K. Rowling,2000,Scholastic,"n/a, n/a, n/a",32.0
+11676,0439139600,10,Harry Potter and the Goblet of Fire (Book 4),J. K. Rowling,2002,Scholastic Paperbacks,"n/a, n/a, n/a",32.0
+11676,044021145X,1,The Firm,John Grisham,1992,Bantam Dell Publishing Group,"n/a, n/a, n/a",32.0
+11676,0440213525,5,The Client,John Grisham,1994,Dell Publishing Company,"n/a, n/a, n/a",32.0
+11676,0440221471,9,The Runaway Jury,JOHN GRISHAM,1997,Dell,"n/a, n/a, n/a",32.0
+11676,0440222656,1,The Horse Whisperer,Nicholas Evans,1996,Dell,"n/a, n/a, n/a",32.0
+11676,0440225701,8,The Street Lawyer,JOHN GRISHAM,1999,Dell,"n/a, n/a, n/a",32.0
+11676,0440226430,7,Summer Sisters,Judy Blume,1999,Dell Publishing Company,"n/a, n/a, n/a",32.0
+11676,0440234743,9,The Testament,John Grisham,1999,Dell,"n/a, n/a, n/a",32.0
+11676,0440236673,8,The Brethren,John Grisham,2000,Island,"n/a, n/a, n/a",32.0
+11676,044023722X,8,A Painted House,John Grisham,2001,Dell Publishing Company,"n/a, n/a, n/a",32.0
+11676,0440241073,8,The Summons,John Grisham,2002,Dell Publishing Company,"n/a, n/a, n/a",32.0
+11676,0446364193,8,Along Came a Spider (Alex Cross Novels),James Patterson,1993,Warner Books,"n/a, n/a, n/a",32.0
+11676,044651652X,8,The Bridges of Madison County,Robert James Waller,1992,Warner Books,"n/a, n/a, n/a",32.0
+11676,0446605239,6,The Notebook,Nicholas Sparks,1998,Warner Books,"n/a, n/a, n/a",32.0
+11676,0446608955,7,A Walk to Remember,Nicholas Sparks,2000,Warner Books,"n/a, n/a, n/a",32.0
+11676,0446610038,10,1st to Die: A Novel,James Patterson,2002,Warner Vision,"n/a, n/a, n/a",32.0
+11676,0446611867,8,A Bend in the Road,Nicholas Sparks,2002,Warner Books,"n/a, n/a, n/a",32.0
+11676,0446672211,10,Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,1998,Warner Books,"n/a, n/a, n/a",32.0
+11676,0449005615,10,Seabiscuit: An American Legend,LAURA HILLENBRAND,2002,Ballantine Books,"n/a, n/a, n/a",32.0
+11676,0449212602,10,The Handmaid's Tale,Margaret Atwood,1989,Fawcett Books,"n/a, n/a, n/a",32.0
+11676,0452282829,10,We Were the Mulvaneys,Joyce Carol Oates,1996,Plume,"n/a, n/a, n/a",32.0
+11676,0553572997,7,The Alienist,Caleb Carr,1995,Bantam Books,"n/a, n/a, n/a",32.0
+11676,0590353403,8,Harry Potter and the Sorcerer's Stone (Book 1),J. K. Rowling,1998,Scholastic,"n/a, n/a, n/a",32.0
+11676,059035342X,10,Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback)),J. K. Rowling,1999,Arthur A. Levine Books,"n/a, n/a, n/a",32.0
+11676,0671001795,10,Two for the Dough,Janet Evanovich,1996,Pocket,"n/a, n/a, n/a",32.0
+11676,0671003755,1,She's Come Undone (Oprah's Book Club (Paperback)),Wally Lamb,1996,Washington Square Press,"n/a, n/a, n/a",32.0
+11676,0671510053,9,SHIPPING NEWS,Annie Proulx,1994,Scribner,"n/a, n/a, n/a",32.0
+11676,067976402X,10,Snow Falling on Cedars,David Guterson,1995,Vintage Books USA,"n/a, n/a, n/a",32.0
+11676,0684801523,5,The Great Gatsby,F. Scott Fitzgerald,1995,Scribner,"n/a, n/a, n/a",32.0
+11676,068484477X,4,STONES FROM THE RIVER,Ursula Hegi,1997,Touchstone,"n/a, n/a, n/a",32.0
+11676,0684872153,9,Angela's Ashes (MMP) : A Memoir,Frank McCourt,1999,Scribner,"n/a, n/a, n/a",32.0
+11676,0684874350,7,ANGELA'S ASHES,Frank McCourt,1996,Scribner,"n/a, n/a, n/a",32.0
+11676,0743237188,6,Fall On Your Knees (Oprah #45),Ann-Marie MacDonald,2002,Touchstone,"n/a, n/a, n/a",32.0
+11676,0743418174,8,Good in Bed,Jennifer Weiner,2002,Washington Square Press,"n/a, n/a, n/a",32.0
+11676,0786868716,9,The Five People You Meet in Heaven,Mitch Albom,2003,Hyperion,"n/a, n/a, n/a",32.0
+11676,0804114986,8,The Bonesetter's Daughter,Amy Tan,2002,Ballantine Books,"n/a, n/a, n/a",32.0
+11676,0812550706,9,Ender's Game (Ender Wiggins Saga (Paperback)),Orson Scott Card,1994,Tor Books,"n/a, n/a, n/a",32.0
+11676,0842329129,9,Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),Tim Lahaye,1996,Tyndale House Publishers,"n/a, n/a, n/a",32.0
+11676,0971880107,6,Wild Animus,Rich Shapero,2004,Too Far,"n/a, n/a, n/a",32.0
+11676,1573229326,7,How to Be Good,Nick Hornby,2002,Riverhead Books,"n/a, n/a, n/a",32.0
+16795,0060930535,4,The Poisonwood Bible: A Novel,Barbara Kingsolver,1999,Perennial,"mechanicsville, maryland, usa",47.0
+16795,0060976845,7,Little Altars Everywhere: A Novel,Rebecca Wells,1996,Perennial,"mechanicsville, maryland, usa",47.0
+16795,0061009059,9,One for the Money (Stephanie Plum Novels (Paperback)),Janet Evanovich,1995,HarperTorch,"mechanicsville, maryland, usa",47.0
+16795,0062502182,8,The Alchemist: A Fable About Following Your Dream,Paulo Coelho,1995,HarperSanFrancisco,"mechanicsville, maryland, usa",47.0
+16795,0064407667,8,"The Bad Beginning (A Series of Unfortunate Events, Book 1)",Lemony Snicket,1999,HarperCollins,"mechanicsville, maryland, usa",47.0
+16795,0142000205,9,Icy Sparks,Gwyn Hyman Rubio,2001,Penguin Books,"mechanicsville, maryland, usa",47.0
+16795,0142001740,10,The Secret Life of Bees,Sue Monk Kidd,2003,Penguin Books,"mechanicsville, maryland, usa",47.0
+16795,0312195516,9,The Red Tent (Bestselling Backlist),Anita Diamant,1998,Picador USA,"mechanicsville, maryland, usa",47.0
+16795,0312291639,9,The Nanny Diaries: A Novel,Emma McLaughlin,2003,St. Martin's Griffin,"mechanicsville, maryland, usa",47.0
+16795,0312305060,8,The Hours: A Novel,Michael Cunningham,2002,Picador,"mechanicsville, maryland, usa",47.0
+16795,0312966970,8,Four To Score (A Stephanie Plum Novel),Janet Evanovich,1999,St. Martin's Paperbacks,"mechanicsville, maryland, usa",47.0
+16795,0316569321,9,White Oleander : A Novel,Janet Fitch,1999,"Little, Brown","mechanicsville, maryland, usa",47.0
+16795,0316666343,10,The Lovely Bones: A Novel,Alice Sebold,2002,"Little, Brown","mechanicsville, maryland, usa",47.0
+16795,0316769487,8,The Catcher in the Rye,J.D. Salinger,1991,"Little, Brown","mechanicsville, maryland, usa",47.0
+16795,0345339703,8,"The Fellowship of the Ring (The Lord of the Rings, Part 1)",J.R.R. TOLKIEN,1986,Del Rey,"mechanicsville, maryland, usa",47.0
+16795,0345342968,8,Fahrenheit 451,RAY BRADBURY,1987,Del Rey,"mechanicsville, maryland, usa",47.0
+16795,0345417623,5,Timeline,MICHAEL CRICHTON,2000,Ballantine Books,"mechanicsville, maryland, usa",47.0
+16795,0375706771,7,Midwives: A Novel,Chris Bohjalian,1998,Vintage,"mechanicsville, maryland, usa",47.0
+16795,0375707972,5,The Reader,Bernhard Schlink,1999,Vintage Books USA,"mechanicsville, maryland, usa",47.0
+16795,0375726403,4,Empire Falls,Richard Russo,2002,Vintage Books USA,"mechanicsville, maryland, usa",47.0
+16795,0375727345,9,House of Sand and Fog,Andre Dubus III,2000,Vintage Books,"mechanicsville, maryland, usa",47.0
+16795,0385492081,5,Into Thin Air : A Personal Account of the Mt. Everest Disaster,JON KRAKAUER,1998,Anchor,"mechanicsville, maryland, usa",47.0
+16795,0385504209,10,The Da Vinci Code,Dan Brown,2003,Doubleday,"mechanicsville, maryland, usa",47.0
+16795,0385505833,10,Skipping Christmas,JOHN GRISHAM,2001,Doubleday,"mechanicsville, maryland, usa",47.0
+16795,0385720106,9,A Map of the World,Jane Hamilton,1999,Anchor Books/Doubleday,"mechanicsville, maryland, usa",47.0
+16795,0440213525,5,The Client,John Grisham,1994,Dell Publishing Company,"mechanicsville, maryland, usa",47.0
+16795,0440214041,6,The Pelican Brief,John Grisham,1993,Dell,"mechanicsville, maryland, usa",47.0
+16795,044022165X,5,The Rainmaker,JOHN GRISHAM,1996,Dell,"mechanicsville, maryland, usa",47.0
+16795,0440222656,9,The Horse Whisperer,Nicholas Evans,1996,Dell,"mechanicsville, maryland, usa",47.0
+16795,0440226430,9,Summer Sisters,Judy Blume,1999,Dell Publishing Company,"mechanicsville, maryland, usa",47.0
+16795,0446364193,8,Along Came a Spider (Alex Cross Novels),James Patterson,1993,Warner Books,"mechanicsville, maryland, usa",47.0
+16795,044651652X,9,The Bridges of Madison County,Robert James Waller,1992,Warner Books,"mechanicsville, maryland, usa",47.0
+16795,0446605239,10,The Notebook,Nicholas Sparks,1998,Warner Books,"mechanicsville, maryland, usa",47.0
+16795,0446608955,8,A Walk to Remember,Nicholas Sparks,2000,Warner Books,"mechanicsville, maryland, usa",47.0
+16795,0446610038,9,1st to Die: A Novel,James Patterson,2002,Warner Vision,"mechanicsville, maryland, usa",47.0
+16795,0446672211,8,Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,1998,Warner Books,"mechanicsville, maryland, usa",47.0
+16795,0671001795,7,Two for the Dough,Janet Evanovich,1996,Pocket,"mechanicsville, maryland, usa",47.0
+16795,0671021001,10,She's Come Undone (Oprah's Book Club),Wally Lamb,1998,Pocket,"mechanicsville, maryland, usa",47.0
+16795,0671510053,5,SHIPPING NEWS,Annie Proulx,1994,Scribner,"mechanicsville, maryland, usa",47.0
+16795,0679746048,9,"Girl, Interrupted",SUSANNA KAYSEN,1994,Vintage,"mechanicsville, maryland, usa",47.0
+16795,0684801523,6,The Great Gatsby,F. Scott Fitzgerald,1995,Scribner,"mechanicsville, maryland, usa",47.0
+16795,068484477X,7,STONES FROM THE RIVER,Ursula Hegi,1997,Touchstone,"mechanicsville, maryland, usa",47.0
+16795,0684874350,7,ANGELA'S ASHES,Frank McCourt,1996,Scribner,"mechanicsville, maryland, usa",47.0
+16795,0743237188,9,Fall On Your Knees (Oprah #45),Ann-Marie MacDonald,2002,Touchstone,"mechanicsville, maryland, usa",47.0
+16795,0743418174,9,Good in Bed,Jennifer Weiner,2002,Washington Square Press,"mechanicsville, maryland, usa",47.0
+16795,0786868716,8,The Five People You Meet in Heaven,Mitch Albom,2003,Hyperion,"mechanicsville, maryland, usa",47.0
+16795,0842329129,9,Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),Tim Lahaye,1996,Tyndale House Publishers,"mechanicsville, maryland, usa",47.0
+16795,1558743669,10,"A Child Called \It\"": One Child's Courage to Survive""",Dave Pelzer,1995,Health Communications,"mechanicsville, maryland, usa",47.0
+16795,1573229326,9,How to Be Good,Nick Hornby,2002,Riverhead Books,"mechanicsville, maryland, usa",47.0
+60244,0060392452,8,Stupid White Men ...and Other Sorry Excuses for the State of the Nation!,Michael Moore,2002,Regan Books,"alvin, texas, usa",47.0
+60244,0060502258,8,The Divine Secrets of the Ya-Ya Sisterhood: A Novel,Rebecca Wells,2002,HarperTorch,"alvin, texas, usa",47.0
+60244,0060928336,8,Divine Secrets of the Ya-Ya Sisterhood: A Novel,Rebecca Wells,1997,Perennial,"alvin, texas, usa",47.0
+60244,0060987103,7,Wicked: The Life and Times of the Wicked Witch of the West,Gregory Maguire,1996,Regan Books,"alvin, texas, usa",47.0
+60244,0140293248,8,The Girls' Guide to Hunting and Fishing,Melissa Bank,2000,Penguin Books,"alvin, texas, usa",47.0
+60244,0140298479,8,Bridget Jones: The Edge of Reason,Helen Fielding,2001,Penguin Books,"alvin, texas, usa",47.0
+60244,0142001740,8,The Secret Life of Bees,Sue Monk Kidd,2003,Penguin Books,"alvin, texas, usa",47.0
+60244,0312195516,7,The Red Tent (Bestselling Backlist),Anita Diamant,1998,Picador USA,"alvin, texas, usa",47.0
+60244,0312278586,8,The Nanny Diaries: A Novel,Emma McLaughlin,2002,St. Martin's Press,"alvin, texas, usa",47.0
+60244,0312966970,9,Four To Score (A Stephanie Plum Novel),Janet Evanovich,1999,St. Martin's Paperbacks,"alvin, texas, usa",47.0
+60244,0312983271,7,Full House (Janet Evanovich's Full Series),Janet Evanovich,2002,St. Martin's Paperbacks,"alvin, texas, usa",47.0
+60244,0316284955,8,White Oleander : A Novel (Oprah's Book Club),Janet Fitch,2000,Back Bay Books,"alvin, texas, usa",47.0
+60244,0316769487,7,The Catcher in the Rye,J.D. Salinger,1991,"Little, Brown","alvin, texas, usa",47.0
+60244,0345339681,10,The Hobbit : The Enchanting Prelude to The Lord of the Rings,J.R.R. TOLKIEN,1986,Del Rey,"alvin, texas, usa",47.0
+60244,0345342968,9,Fahrenheit 451,RAY BRADBURY,1987,Del Rey,"alvin, texas, usa",47.0
+60244,0375700757,6,Cold Mountain : A Novel,CHARLES FRAZIER,1998,Vintage,"alvin, texas, usa",47.0
+60244,0375727345,7,House of Sand and Fog,Andre Dubus III,2000,Vintage Books,"alvin, texas, usa",47.0
+60244,0385505833,8,Skipping Christmas,JOHN GRISHAM,2001,Doubleday,"alvin, texas, usa",47.0
+60244,0385720106,8,A Map of the World,Jane Hamilton,1999,Anchor Books/Doubleday,"alvin, texas, usa",47.0
+60244,0449005615,9,Seabiscuit: An American Legend,LAURA HILLENBRAND,2002,Ballantine Books,"alvin, texas, usa",47.0
+60244,0671001795,9,Two for the Dough,Janet Evanovich,1996,Pocket,"alvin, texas, usa",47.0
+60244,0679746048,7,"Girl, Interrupted",SUSANNA KAYSEN,1994,Vintage,"alvin, texas, usa",47.0
+60244,0743237188,8,Fall On Your Knees (Oprah #45),Ann-Marie MacDonald,2002,Touchstone,"alvin, texas, usa",47.0
+60244,0743418174,8,Good in Bed,Jennifer Weiner,2002,Washington Square Press,"alvin, texas, usa",47.0
+60244,0804106304,8,The Joy Luck Club,Amy Tan,1994,Prentice Hall (K-12),"alvin, texas, usa",47.0
+60244,0804114986,8,The Bonesetter's Daughter,Amy Tan,2002,Ballantine Books,"alvin, texas, usa",47.0
+60244,0812550706,9,Ender's Game (Ender Wiggins Saga (Paperback)),Orson Scott Card,1994,Tor Books,"alvin, texas, usa",47.0
+60244,0842329129,5,Left Behind: A Novel of the Earth's Last Days (Left Behind No. 1),Tim Lahaye,1996,Tyndale House Publishers,"alvin, texas, usa",47.0
+60244,1400034779,9,The No. 1 Ladies' Detective Agency (Today Show Book Club #8),Alexander McCall Smith,2003,Anchor,"alvin, texas, usa",47.0
+95359,0060392452,10,Stupid White Men ...and Other Sorry Excuses for the State of the Nation!,Michael Moore,2002,Regan Books,"charleston, west virginia, usa",33.0
+95359,0060915544,9,The Bean Trees,Barbara Kingsolver,1989,Perennial,"charleston, west virginia, usa",33.0
+95359,0060934417,9,Bel Canto: A Novel,Ann Patchett,2002,Perennial,"charleston, west virginia, usa",33.0
+95359,0060976845,7,Little Altars Everywhere: A Novel,Rebecca Wells,1996,Perennial,"charleston, west virginia, usa",33.0
+95359,0061009059,8,One for the Money (Stephanie Plum Novels (Paperback)),Janet Evanovich,1995,HarperTorch,"charleston, west virginia, usa",33.0
+95359,0140293248,8,The Girls' Guide to Hunting and Fishing,Melissa Bank,2000,Penguin Books,"charleston, west virginia, usa",33.0
+95359,0312195516,7,The Red Tent (Bestselling Backlist),Anita Diamant,1998,Picador USA,"charleston, west virginia, usa",33.0
+95359,0312278586,9,The Nanny Diaries: A Novel,Emma McLaughlin,2002,St. Martin's Press,"charleston, west virginia, usa",33.0
+95359,0312305060,10,The Hours: A Novel,Michael Cunningham,2002,Picador,"charleston, west virginia, usa",33.0
+95359,0316096199,9,Lucky : A Memoir,Alice Sebold,2002,Back Bay Books,"charleston, west virginia, usa",33.0
+95359,0316284955,6,White Oleander : A Novel (Oprah's Book Club),Janet Fitch,2000,Back Bay Books,"charleston, west virginia, usa",33.0
+95359,0316601950,10,The Pilot's Wife : A Novel,Anita Shreve,1999,Back Bay Books,"charleston, west virginia, usa",33.0
+95359,0316666343,9,The Lovely Bones: A Novel,Alice Sebold,2002,"Little, Brown","charleston, west virginia, usa",33.0
+95359,0316769487,8,The Catcher in the Rye,J.D. Salinger,1991,"Little, Brown","charleston, west virginia, usa",33.0
+95359,0345361792,10,A Prayer for Owen Meany,John Irving,1990,Ballantine Books,"charleston, west virginia, usa",33.0
+95359,0345370775,9,Jurassic Park,Michael Crichton,1999,Ballantine Books,"charleston, west virginia, usa",33.0
+95359,0375707972,6,The Reader,Bernhard Schlink,1999,Vintage Books USA,"charleston, west virginia, usa",33.0
+95359,0375725784,9,A Heartbreaking Work of Staggering Genius,Dave Eggers,2001,Vintage Books USA,"charleston, west virginia, usa",33.0
+95359,0375726403,9,Empire Falls,Richard Russo,2002,Vintage Books USA,"charleston, west virginia, usa",33.0
+95359,0375727345,7,House of Sand and Fog,Andre Dubus III,2000,Vintage Books,"charleston, west virginia, usa",33.0
+95359,0385265700,8,The Book of Ruth (Oprah's Book Club (Paperback)),Jane Hamilton,1990,Anchor,"charleston, west virginia, usa",33.0
+95359,0385486804,10,Into the Wild,Jon Krakauer,1997,Anchor,"charleston, west virginia, usa",33.0
+95359,0385492081,10,Into Thin Air : A Personal Account of the Mt. Everest Disaster,JON KRAKAUER,1998,Anchor,"charleston, west virginia, usa",33.0
+95359,0399501487,10,Lord of the Flies,William Gerald Golding,1959,Perigee Trade,"charleston, west virginia, usa",33.0
+95359,043935806X,10,Harry Potter and the Order of the Phoenix (Book 5),J. K. Rowling,2003,Scholastic,"charleston, west virginia, usa",33.0
+95359,0440226430,6,Summer Sisters,Judy Blume,1999,Dell Publishing Company,"charleston, west virginia, usa",33.0
+95359,0440236673,7,The Brethren,John Grisham,2000,Island,"charleston, west virginia, usa",33.0
+95359,0446310786,10,To Kill a Mockingbird,Harper Lee,1988,Little Brown &amp; Company,"charleston, west virginia, usa",33.0
+95359,0446610038,8,1st to Die: A Novel,James Patterson,2002,Warner Vision,"charleston, west virginia, usa",33.0
+95359,0449212602,10,The Handmaid's Tale,Margaret Atwood,1989,Fawcett Books,"charleston, west virginia, usa",33.0
+95359,0553279912,4,A Is for Alibi (Kinsey Millhone Mysteries (Paperback)),SUE GRAFTON,1987,Bantam,"charleston, west virginia, usa",33.0
+95359,0553572997,9,The Alienist,Caleb Carr,1995,Bantam Books,"charleston, west virginia, usa",33.0
+95359,0671003755,8,She's Come Undone (Oprah's Book Club (Paperback)),Wally Lamb,1996,Washington Square Press,"charleston, west virginia, usa",33.0
+95359,0671027360,9,Angels &amp; Demons,Dan Brown,2001,Pocket Star,"charleston, west virginia, usa",33.0
+104636,0061009059,9,One for the Money (Stephanie Plum Novels (Paperback)),Janet Evanovich,1995,HarperTorch,"youngstown, ohio, usa",32.0
+104636,014028009X,6,Bridget Jones's Diary,Helen Fielding,1999,Penguin Books,"youngstown, ohio, usa",32.0
+104636,0312966970,9,Four To Score (A Stephanie Plum Novel),Janet Evanovich,1999,St. Martin's Paperbacks,"youngstown, ohio, usa",32.0
+104636,0312983271,7,Full House (Janet Evanovich's Full Series),Janet Evanovich,2002,St. Martin's Paperbacks,"youngstown, ohio, usa",32.0
+104636,0316284955,8,White Oleander : A Novel (Oprah's Book Club),Janet Fitch,2000,Back Bay Books,"youngstown, ohio, usa",32.0
+104636,0316601950,9,The Pilot's Wife : A Novel,Anita Shreve,1999,Back Bay Books,"youngstown, ohio, usa",32.0
+104636,0385505833,8,Skipping Christmas,JOHN GRISHAM,2001,Doubleday,"youngstown, ohio, usa",32.0
+104636,0439064872,10,Harry Potter and the Chamber of Secrets (Book 2),J. K. Rowling,2000,Scholastic,"youngstown, ohio, usa",32.0
+104636,0439136369,10,Harry Potter and the Prisoner of Azkaban (Book 3),J. K. Rowling,2001,Scholastic,"youngstown, ohio, usa",32.0
+104636,0439139600,10,Harry Potter and the Goblet of Fire (Book 4),J. K. Rowling,2002,Scholastic Paperbacks,"youngstown, ohio, usa",32.0
+104636,044021145X,10,The Firm,John Grisham,1992,Bantam Dell Publishing Group,"youngstown, ohio, usa",32.0
+104636,0440211727,10,A Time to Kill,JOHN GRISHAM,1992,Dell,"youngstown, ohio, usa",32.0
+104636,0440213525,9,The Client,John Grisham,1994,Dell Publishing Company,"youngstown, ohio, usa",32.0
+104636,0440214041,9,The Pelican Brief,John Grisham,1993,Dell,"youngstown, ohio, usa",32.0
+104636,0440220602,9,The Chamber,John Grisham,1995,Dell Publishing Company,"youngstown, ohio, usa",32.0
+104636,044022165X,8,The Rainmaker,JOHN GRISHAM,1996,Dell,"youngstown, ohio, usa",32.0
+104636,0440224764,8,The Partner,John Grisham,1998,Dell Publishing Company,"youngstown, ohio, usa",32.0
+104636,0440225701,6,The Street Lawyer,JOHN GRISHAM,1999,Dell,"youngstown, ohio, usa",32.0
+104636,0440226430,10,Summer Sisters,Judy Blume,1999,Dell Publishing Company,"youngstown, ohio, usa",32.0
+104636,0446364193,9,Along Came a Spider (Alex Cross Novels),James Patterson,1993,Warner Books,"youngstown, ohio, usa",32.0
+104636,0446610038,10,1st to Die: A Novel,James Patterson,2002,Warner Vision,"youngstown, ohio, usa",32.0
+104636,0446672211,10,Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,1998,Warner Books,"youngstown, ohio, usa",32.0
+104636,0553279912,9,A Is for Alibi (Kinsey Millhone Mysteries (Paperback)),SUE GRAFTON,1987,Bantam,"youngstown, ohio, usa",32.0
+104636,0553572997,9,The Alienist,Caleb Carr,1995,Bantam Books,"youngstown, ohio, usa",32.0
+104636,059035342X,10,Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback)),J. K. Rowling,1999,Arthur A. Levine Books,"youngstown, ohio, usa",32.0
+104636,0671001795,9,Two for the Dough,Janet Evanovich,1996,Pocket,"youngstown, ohio, usa",32.0
+104636,0671003755,8,She's Come Undone (Oprah's Book Club (Paperback)),Wally Lamb,1996,Washington Square Press,"youngstown, ohio, usa",32.0
+104636,1558743669,9,"A Child Called \It\"": One Child's Courage to Survive""",Dave Pelzer,1995,Health Communications,"youngstown, ohio, usa",32.0
+105979,0060915544,7,The Bean Trees,Barbara Kingsolver,1989,Perennial,"oakland, california, usa",26.0
+105979,0060930535,9,The Poisonwood Bible: A Novel,Barbara Kingsolver,1999,Perennial,"oakland, california, usa",26.0
+105979,0060976845,8,Little Altars Everywhere: A Novel,Rebecca Wells,1996,Perennial,"oakland, california, usa",26.0
+105979,0140293248,7,The Girls' Guide to Hunting and Fishing,Melissa Bank,2000,Penguin Books,"oakland, california, usa",26.0
+105979,0312278586,8,The Nanny Diaries: A Novel,Emma McLaughlin,2002,St. Martin's Press,"oakland, california, usa",26.0
+105979,0316096199,10,Lucky : A Memoir,Alice Sebold,2002,Back Bay Books,"oakland, california, usa",26.0
+105979,0316601950,8,The Pilot's Wife : A Novel,Anita Shreve,1999,Back Bay Books,"oakland, california, usa",26.0
+105979,0316666343,8,The Lovely Bones: A Novel,Alice Sebold,2002,"Little, Brown","oakland, california, usa",26.0
+105979,0345361792,8,A Prayer for Owen Meany,John Irving,1990,Ballantine Books,"oakland, california, usa",26.0
+105979,0385265700,9,The Book of Ruth (Oprah's Book Club (Paperback)),Jane Hamilton,1990,Anchor,"oakland, california, usa",26.0
+105979,0385484518,10,"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",MITCH ALBOM,1997,Doubleday,"oakland, california, usa",26.0
+105979,0385492081,8,Into Thin Air : A Personal Account of the Mt. Everest Disaster,JON KRAKAUER,1998,Anchor,"oakland, california, usa",26.0
+105979,0385504209,5,The Da Vinci Code,Dan Brown,2003,Doubleday,"oakland, california, usa",26.0
+105979,0385722206,8,Balzac and the Little Chinese Seamstress : A Novel,DAI SIJIE,2002,Anchor,"oakland, california, usa",26.0
+105979,044021145X,8,The Firm,John Grisham,1992,Bantam Dell Publishing Group,"oakland, california, usa",26.0
+105979,0440213525,6,The Client,John Grisham,1994,Dell Publishing Company,"oakland, california, usa",26.0
+105979,0440214041,5,The Pelican Brief,John Grisham,1993,Dell,"oakland, california, usa",26.0
+105979,0440221471,5,The Runaway Jury,JOHN GRISHAM,1997,Dell,"oakland, california, usa",26.0
+105979,044022165X,5,The Rainmaker,JOHN GRISHAM,1996,Dell,"oakland, california, usa",26.0
+105979,0440234743,5,The Testament,John Grisham,1999,Dell,"oakland, california, usa",26.0
+105979,0440241073,5,The Summons,John Grisham,2002,Dell Publishing Company,"oakland, california, usa",26.0
+105979,0446310786,10,To Kill a Mockingbird,Harper Lee,1988,Little Brown &amp; Company,"oakland, california, usa",26.0
+105979,0446606812,1,Message in a Bottle,Nicholas Sparks,1999,Warner Vision,"oakland, california, usa",26.0
+105979,0446672211,4,Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,1998,Warner Books,"oakland, california, usa",26.0
+105979,0671003755,6,She's Come Undone (Oprah's Book Club (Paperback)),Wally Lamb,1996,Washington Square Press,"oakland, california, usa",26.0
+105979,068484477X,10,STONES FROM THE RIVER,Ursula Hegi,1997,Touchstone,"oakland, california, usa",26.0
+105979,0743418174,9,Good in Bed,Jennifer Weiner,2002,Washington Square Press,"oakland, california, usa",26.0
+105979,0786868716,7,The Five People You Meet in Heaven,Mitch Albom,2003,Hyperion,"oakland, california, usa",26.0
+135149,0060930535,6,The Poisonwood Bible: A Novel,Barbara Kingsolver,1999,Perennial,"ft. pierce, florida, usa",32.0
+135149,0061009059,7,One for the Money (Stephanie Plum Novels (Paperback)),Janet Evanovich,1995,HarperTorch,"ft. pierce, florida, usa",32.0
+135149,0064407667,8,"The Bad Beginning (A Series of Unfortunate Events, Book 1)",Lemony Snicket,1999,HarperCollins,"ft. pierce, florida, usa",32.0
+135149,0140293248,8,The Girls' Guide to Hunting and Fishing,Melissa Bank,2000,Penguin Books,"ft. pierce, florida, usa",32.0
+135149,0312983271,9,Full House (Janet Evanovich's Full Series),Janet Evanovich,2002,St. Martin's Paperbacks,"ft. pierce, florida, usa",32.0
+135149,0345417623,8,Timeline,MICHAEL CRICHTON,2000,Ballantine Books,"ft. pierce, florida, usa",32.0
+135149,0385265700,9,The Book of Ruth (Oprah's Book Club (Paperback)),Jane Hamilton,1990,Anchor,"ft. pierce, florida, usa",32.0
+135149,0399501487,8,Lord of the Flies,William Gerald Golding,1959,Perigee Trade,"ft. pierce, florida, usa",32.0
+135149,0439136369,8,Harry Potter and the Prisoner of Azkaban (Book 3),J. K. Rowling,2001,Scholastic,"ft. pierce, florida, usa",32.0
+135149,043935806X,9,Harry Potter and the Order of the Phoenix (Book 5),J. K. Rowling,2003,Scholastic,"ft. pierce, florida, usa",32.0
+135149,0440211727,8,A Time to Kill,JOHN GRISHAM,1992,Dell,"ft. pierce, florida, usa",32.0
+135149,0440213525,8,The Client,John Grisham,1994,Dell Publishing Company,"ft. pierce, florida, usa",32.0
+135149,0440214041,8,The Pelican Brief,John Grisham,1993,Dell,"ft. pierce, florida, usa",32.0
+135149,0440220602,7,The Chamber,John Grisham,1995,Dell Publishing Company,"ft. pierce, florida, usa",32.0
+135149,0440222656,7,The Horse Whisperer,Nicholas Evans,1996,Dell,"ft. pierce, florida, usa",32.0
+135149,0440224764,8,The Partner,John Grisham,1998,Dell Publishing Company,"ft. pierce, florida, usa",32.0
+135149,0440226430,9,Summer Sisters,Judy Blume,1999,Dell Publishing Company,"ft. pierce, florida, usa",32.0
+135149,0440236673,8,The Brethren,John Grisham,2000,Island,"ft. pierce, florida, usa",32.0
+135149,044023722X,8,A Painted House,John Grisham,2001,Dell Publishing Company,"ft. pierce, florida, usa",32.0
+135149,0446608955,9,A Walk to Remember,Nicholas Sparks,2000,Warner Books,"ft. pierce, florida, usa",32.0
+135149,0449005615,9,Seabiscuit: An American Legend,LAURA HILLENBRAND,2002,Ballantine Books,"ft. pierce, florida, usa",32.0
+135149,0452282152,9,Girl with a Pearl Earring,Tracy Chevalier,2001,Plume Books,"ft. pierce, florida, usa",32.0
+135149,068484477X,8,STONES FROM THE RIVER,Ursula Hegi,1997,Touchstone,"ft. pierce, florida, usa",32.0
+135149,0804106304,7,The Joy Luck Club,Amy Tan,1994,Prentice Hall (K-12),"ft. pierce, florida, usa",32.0
+135149,0804114986,8,The Bonesetter's Daughter,Amy Tan,2002,Ballantine Books,"ft. pierce, florida, usa",32.0
+240567,0060959037,8,Prodigal Summer: A Novel,Barbara Kingsolver,2001,Perennial,"hawthorne, new jersey, usa",33.0
+240567,0142000205,8,Icy Sparks,Gwyn Hyman Rubio,2001,Penguin Books,"hawthorne, new jersey, usa",33.0
+240567,0142001740,10,The Secret Life of Bees,Sue Monk Kidd,2003,Penguin Books,"hawthorne, new jersey, usa",33.0
+240567,0312195516,8,The Red Tent (Bestselling Backlist),Anita Diamant,1998,Picador USA,"hawthorne, new jersey, usa",33.0
+240567,0316569321,8,White Oleander : A Novel,Janet Fitch,1999,"Little, Brown","hawthorne, new jersey, usa",33.0
+240567,0316769487,9,The Catcher in the Rye,J.D. Salinger,1991,"Little, Brown","hawthorne, new jersey, usa",33.0
+240567,0345370775,7,Jurassic Park,Michael Crichton,1999,Ballantine Books,"hawthorne, new jersey, usa",33.0
+240567,0375727345,8,House of Sand and Fog,Andre Dubus III,2000,Vintage Books,"hawthorne, new jersey, usa",33.0
+240567,0385504209,10,The Da Vinci Code,Dan Brown,2003,Doubleday,"hawthorne, new jersey, usa",33.0
+240567,0399501487,8,Lord of the Flies,William Gerald Golding,1959,Perigee Trade,"hawthorne, new jersey, usa",33.0
+240567,044021145X,5,The Firm,John Grisham,1992,Bantam Dell Publishing Group,"hawthorne, new jersey, usa",33.0
+240567,0440213525,8,The Client,John Grisham,1994,Dell Publishing Company,"hawthorne, new jersey, usa",33.0
+240567,0440214041,5,The Pelican Brief,John Grisham,1993,Dell,"hawthorne, new jersey, usa",33.0
+240567,0440220602,5,The Chamber,John Grisham,1995,Dell Publishing Company,"hawthorne, new jersey, usa",33.0
+240567,044022165X,6,The Rainmaker,JOHN GRISHAM,1996,Dell,"hawthorne, new jersey, usa",33.0
+240567,0440222656,9,The Horse Whisperer,Nicholas Evans,1996,Dell,"hawthorne, new jersey, usa",33.0
+240567,0440234743,5,The Testament,John Grisham,1999,Dell,"hawthorne, new jersey, usa",33.0
+240567,0440236673,6,The Brethren,John Grisham,2000,Island,"hawthorne, new jersey, usa",33.0
+240567,044023722X,8,A Painted House,John Grisham,2001,Dell Publishing Company,"hawthorne, new jersey, usa",33.0
+240567,0440241073,5,The Summons,John Grisham,2002,Dell Publishing Company,"hawthorne, new jersey, usa",33.0
+240567,0446310786,8,To Kill a Mockingbird,Harper Lee,1988,Little Brown &amp; Company,"hawthorne, new jersey, usa",33.0
+240567,0446364193,6,Along Came a Spider (Alex Cross Novels),James Patterson,1993,Warner Books,"hawthorne, new jersey, usa",33.0
+240567,0446672211,9,Where the Heart Is (Oprah's Book Club (Paperback)),Billie Letts,1998,Warner Books,"hawthorne, new jersey, usa",33.0
+240567,0452282152,4,Girl with a Pearl Earring,Tracy Chevalier,2001,Plume Books,"hawthorne, new jersey, usa",33.0
+240567,0452282829,8,We Were the Mulvaneys,Joyce Carol Oates,1996,Plume,"hawthorne, new jersey, usa",33.0
+240567,0553572997,7,The Alienist,Caleb Carr,1995,Bantam Books,"hawthorne, new jersey, usa",33.0
+240567,0671001795,9,Two for the Dough,Janet Evanovich,1996,Pocket,"hawthorne, new jersey, usa",33.0
+240567,0671021001,7,She's Come Undone (Oprah's Book Club),Wally Lamb,1998,Pocket,"hawthorne, new jersey, usa",33.0
+240567,0671027360,7,Angels &amp; Demons,Dan Brown,2001,Pocket Star,"hawthorne, new jersey, usa",33.0
+240567,0684801523,5,The Great Gatsby,F. Scott Fitzgerald,1995,Scribner,"hawthorne, new jersey, usa",33.0
+240567,068484477X,7,STONES FROM THE RIVER,Ursula Hegi,1997,Touchstone,"hawthorne, new jersey, usa",33.0
+240567,0804106304,8,The Joy Luck Club,Amy Tan,1994,Prentice Hall (K-12),"hawthorne, new jersey, usa",33.0
