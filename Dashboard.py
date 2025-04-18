@@ -8,7 +8,7 @@ from tensorflow import keras
 from tensorflow.keras import layers
 
 # Load Data
-df = pd.read_csv("Data/merged_df.csv")
+df = pd.read_csv(r"Data/merged_df.csv")
 df_grouped = df.groupby("Book_Title").agg({
     "Book_Author": "first",
     "Year_Of_Publication": "first",
@@ -240,4 +240,8 @@ elif page == "User Rekomendasi":
 if 'selected_book' in st.session_state:
     st.sidebar.markdown("## Detail Buku")
     show_book_details(st.session_state['selected_book'])
+
+import subprocess
+
+subprocess.run(["pip", "install", "-r", "requirements.txt"])
 
